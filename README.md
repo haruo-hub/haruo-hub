@@ -1,6 +1,4 @@
 
-<img width="auto" src="https://github.com/haruo-hub/haruo-hub/blob/master/banner.png">
-
 # Rodrigo Haruo Saitou
 
 ## Olá pessoal 👋
