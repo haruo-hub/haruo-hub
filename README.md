@@ -1,4 +1,3 @@
-```
 <img width="auto" src="https://github.com/haruo-hub/haruo-hub/blob/master/banner.png">
 
 # Rodrigo Haruo Saitou
@@ -15,5 +14,3 @@ Sou um FullStack Developer :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-rodrigo-haruo-saitou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-haruo-saitou/)](https://www.linkedin.com/in/rodrigo-haruo-saitou/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-cadastros.rhs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cadastros.rhs@gmail.com)](mailto:cadastros.rhs@gmail.com)
-
-```
