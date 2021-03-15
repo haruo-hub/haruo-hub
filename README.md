@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando como consultar na **Intera Consultoria**
+ :rocket:  &nbsp; Estou trabalhando como consultor na **Intera Consultoria**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-End utilizando Java e Front-end utilizando Angular/CSS/HTML5/TypeScript
  <br/> :blush: &nbsp; Posso te ajudar com Java, Spring
  <br/> :computer: &nbsp; Minha stack atual: Java, Angular & TypeScript
